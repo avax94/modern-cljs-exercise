@@ -27,6 +27,6 @@
    (serve :dir "target")
    (watch)
    (reload)
-   (cljs-repl)
+   (cljs-repl) ;; before cljs task
    (cljs)
    (target :dir #{"target"})))
