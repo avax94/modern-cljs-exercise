@@ -1,4 +1,4 @@
-(ns modern-clojure.core)
+(ns modern-cljs.core)
 
 (enable-console-print!)
 (println "Hello world!")
