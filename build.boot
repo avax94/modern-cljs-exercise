@@ -10,6 +10,7 @@
                  [adzerk/boot-reload "0.5.1"]
                  [adzerk/boot-cljs-repl "0.4.0"] ;; latest release
                  [cider/piggieback "0.3.9"]
+                 [org.clojars.magomimmo/domina "2.0.0-SNAPSHOT"]
                  [weasel "0.7.0"]
                  [nrepl "0.4.5"]])                    ;; needed by bREPL
 
